@@ -160,3 +160,4 @@ void vendor_load_properties()
         property_set("persist.radio.multisim.config", "");
     }
 
+}
